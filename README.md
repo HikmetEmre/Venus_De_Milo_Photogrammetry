@@ -2,7 +2,7 @@
 # Venus_De_Milo_Photogrammetry
 
 A heritage sculpture digitized using **photogrammetry** and deployed as a **web-based interactive 3D and mobile AR experience**.
-(assets/images/front.png)
+!(assets/images/front.png)
 ## Overview
 
 This project documents the full pipeline of transforming a physical family-owned Venus de Milo replica into a real-time 3D model viewable in the browser and placeable in real space using mobile AR.
